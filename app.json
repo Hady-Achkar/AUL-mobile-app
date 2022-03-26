@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Aul App",
+    "slug": "aul-app",
+    "privacy": "public",
+    "platforms": ["ios", "android"],
+    "version": "1.6.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "https://images.unsplash.com/photo-1558021211-6d1403321394?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Aul Utility app"
+  }
+}

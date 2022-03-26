@@ -1,0 +1,10 @@
+export { default as HomeScreen } from './Home';
+export { default as NewsScreen } from './News';
+export { default as CourseScreen } from './Course/Index';
+export { default as SuggestionsScreen } from './Suggestions/Index';
+export { default as NotificationsScreen } from './Notifications/index';
+export { default as EventsScreen } from './Events/index';
+export { default as MajorScreen } from './Academics/Major';
+export { default as AcademicsScreen } from './Academics/index';
+export { default as CampusScreen } from './Campus/index';
+export { default as ApplyScreen } from './ApplyNow/index';
